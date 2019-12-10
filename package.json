@@ -1,0 +1,28 @@
+{
+  "name": "node-api-crud",
+  "version": "1.0.0",
+  "description": "Projetin nota 15",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trapkiller/mongolab"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.15.5",
+    "mongoose": "^4.11.14",
+    "request": "~2.82.0"
+  },
+  "author": "Gustavo Azevedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trapkiller/mongolab/issues"
+  },
+  "homepage": "https://github.com/trapkiller/mongolab#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
