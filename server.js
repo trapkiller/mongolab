@@ -2,8 +2,7 @@
  * 
  * Arquivo: server.js
  * Descrição: 
- * Author:
- * Data de Criação: 13/11/2017
+ * Author: Gustavo
  * 
  */
 

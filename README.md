@@ -1,31 +1,3 @@
-# Desenvolvendo uma API RESTful com Node + Express & MongoDB
-Código desenvolvido durante a gravação das videos aulas sobre: CRUD com Node.Js + MongoDb + Express.js, através do meu canal do Youtube: [AQUI](https://www.youtube.com/user/l32759)
-
-## Recursos utilizados no desenvolvimento:
-
-- Node.Js - [DOWNLOAD AQUI](https://nodejs.org/en/)
-- Express.Js ~ v.4.0;
-- Conceito RestFul;
-- MongoDb - [DOWNLOAD AQUI](https://www.mongodb.com/)
-- Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
-- Mongoose ~4.x;
-- JSON data (para retornar os dados);
-- PostMan (testar a API criada);
-
-## Conteúdo do Curso: (* em desenvolvimento)
-
-- [Aula 01 - Introdução](https://www.youtube.com/watch?v=qwgDzi8TGco);
-- [Aula 02 - Configurando o Ambiente de Desenvolvimento](https://www.youtube.com/edit?o=U&video_id=yBx35VkBWD4);
-- [Aula 03 - Estruturando o projeto](https://www.youtube.com/watch?v=SmlEZ8Ipj0M);
-- [Aula 04 - Desenvolvendo o arquivo 'server.js'](https://www.youtube.com/watch?v=gqRAgXBkOXY);
-- [Aula 05 - Criando a Classe 'Produto' com Mongoose](https://www.youtube.com/watch?v=gSutX_3L9WE);
-- [Aula 06 - Criando conta no MLab e Configuração do Ambiente para o BD](https://youtu.be/kjb3CFvAwbU);
-- [Aula 07 - Desenvolvendo uma Rota Middleware via Express](https://youtu.be/A0IPtXULRPM);
-- [Aula 08 - Desenvolvendo a Rota: POST](https://youtu.be/onPlF3gC0T4);
-- [Aula 09 - Desenvolvendo a Rota: GET ALL](https://youtu.be/2oU7rOe1c3I);
-- [Aula 10 - Desenvolvendo a Rota: GET By Id](https://youtu.be/1gGfo3UYq-0);
-- [Aula 11 - Desenvolvendo a Rota: PUT](https://youtu.be/tTtaH_ZCQnM);
-- [Aula 12 - Desenvolvendo a Rota: DELETE & Persistência de Dados via MongoDb](https://youtu.be/w0H2bsNRuzI);
 
 ## Testando a Aplicação no Postman:
 
